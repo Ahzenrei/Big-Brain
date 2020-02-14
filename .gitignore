@@ -259,3 +259,23 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Library
+/ProjectSettings
+/Temp
+/Assembly-CSharp.csproj
+/Assets/Anim
+/Assets/Font
+/Assets/Materials
+/Assets/Prefabs
+/Assets/Resources
+/Assets/Scenes
+/Assets/Sounds
+/Assets/Texture
+/UnityEngine.TestRunner.csproj
+/UnityEditor.TestRunner.csproj
+/Unity.VSCode.Editor.csproj
+/Unity.TextMeshPro.Editor.csproj
+/Unity.TextMeshPro.csproj
+/Unity.Rider.Editor.csproj
+/Unity.CollabProxy.Editor.csproj
+/Big Brain.csproj
